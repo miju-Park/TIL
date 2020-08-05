@@ -7,4 +7,4 @@
 ## 분류
 
 ### Cypress
-* [Network Test(Stub)] (https://github.com/miju-Park/TIL/Cypress/Network-Test-Route.md)
+* [use Route for Network Test](https://github.com/miju-Park/TIL/blob/master/Cypress/Network-Test-Route.md)
