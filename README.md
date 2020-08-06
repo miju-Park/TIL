@@ -8,3 +8,6 @@
 
 ### Cypress
 * [use Route for Network Test](https://github.com/miju-Park/TIL/blob/master/Cypress/Network-Test-Route.md)
+
+### ETC
+* [use chrome devTools tip](https://github.com/miju-Park/TIL/blob/master/ETC/Use-Chrome-DevTools.md))
