@@ -9,5 +9,8 @@
 ### Cypress
 * [use Route for Network Test](https://github.com/miju-Park/TIL/blob/master/Cypress/Network-Test-Route.md)
 
+### Javascript
+* [ES6+ 코드스피츠 강의 1회](https://github.com/miju-Park/TIL/blob/master/Javascript/ES6+_1.md)
+
 ### ETC
 * [use chrome devTools tip](https://github.com/miju-Park/TIL/blob/master/ETC/Use-Chrome-DevTools.md))
