@@ -12,6 +12,7 @@
 ### Javascript
 * [ES6+ 코드스피츠 강의 1회](https://github.com/miju-Park/TIL/blob/master/Javascript/ES6+_1.md)
 * [ES6+ 코드스피츠 강의 2회](https://github.com/miju-Park/TIL/blob/master/Javascript/ES6+_2.md)
+* [ES6+ 코드스피츠 강의 3회](https://github.com/miju-Park/TIL/blob/master/Javascript/ES6+_3.md)
 
 ### ETC
 * [use chrome devTools tip](https://github.com/miju-Park/TIL/blob/master/ETC/Use-Chrome-DevTools.md))
